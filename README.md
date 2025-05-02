@@ -7,7 +7,7 @@ View Full Prototype on Figma [▶️](https://bit.ly/sahayak_app)
 ---
 
 ## Just in Case
-A built‑in safety net: one‑tap access to designated contacts or emergency services, automatic fall‑detection alerts, and real‑time notifications to your loved ones and caregivers—so help is always within reach.
+Imagine a phone that understands you—no more squinting to read tiny text or fumbling through endless menus. Sahayak uses clear, natural voice prompts and big, touch‑friendly controls to help you make and answer calls, send and hear messages, and manage contacts without hassle. Whether you’re more comfortable speaking in Hindi, English, or another language, Sahayak listens and responds, guiding you step by step. In an emergency, one‑tap access to your loved ones or medical services gives you and your family real peace of mind—and if you ever have a fall, Sahayak can send an alert for help. It’s technology designed to feel like a trusted friend, empowering you to stay connected, safe, and independent every day.
 
 ---
 
