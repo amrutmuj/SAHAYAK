@@ -2,7 +2,7 @@
 
 A voice-enabled companion app designed to help elderly users easily manage their daily activities, health reminders, and stay connected with family members.
 
-![Sahayak Preview](./Sahayak.png)
+![Sahayak Preview](../Sahayak.png)
 
 ## Features
 
@@ -89,7 +89,7 @@ The app responds to natural voice commands such as:
 ### Project Structure
 
 ```
-sahayak-elder-companion/
+project/
 ├── app/                    # Expo Router app directory
 │   ├── (tabs)/            # Tab-based navigation
 │   ├── call/              # Call-related screens
@@ -128,7 +128,6 @@ expo build:ios       # For iOS
 
 - [Expo](https://expo.dev/) for the amazing development platform
 - [Lucide Icons](https://lucide.dev/) for the beautiful icon set
-- [Pexels](https://www.pexels.com/) for placeholder images
 
 ## Support
 
